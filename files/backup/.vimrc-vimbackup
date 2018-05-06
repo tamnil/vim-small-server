@@ -131,4 +131,3 @@ let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
 nmap <F8> :TagbarToggle<CR>
 nmap <F7> :NERDTreeToggle<CR> 
 
-map <C-c> "+y<CR>
